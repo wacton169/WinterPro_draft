@@ -1,8 +1,3 @@
-# WinterPro_draft
-# Create the README.md content in smaller parts to avoid syntax issues
-
-# Part 1: Header and Table of Contents
-readme_content_part1 = """
 # ❄️ WinterPro CMMS
 
 WinterPro CMMS (Computerized Maintenance Management System) is a modern, full-stack application designed to streamline maintenance operations, asset tracking, and work order management for facilities and organizations.
